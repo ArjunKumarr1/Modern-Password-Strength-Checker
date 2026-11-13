@@ -68,6 +68,19 @@ Modern-Password-Strength-Checker/
 ├── README.md
 └── .gitignore
 
+## 📸 Application Screenshots
+
+### Main Interface
+![Main Interface](image1.png)
+
+### Password Strength Analysis
+![Password Analysis](image2.png)
+
+### Password Generator
+![Password Generator](image3.png)
+
+
+
 Created by
 
 Arjun Kumar
